@@ -15,12 +15,10 @@ find_package(geometry_msgs REQUIRED)
 find_package(nav_msgs REQUIRED)
 find_package(nmea_msgs REQUIRED)
 find_package(diagnostic_msgs REQUIRED)
-find_package(pcl_msgs REQUIRED)
-find_package(pcl_ros REQUIRED)
 find_package(tf2_msgs REQUIRED)
 find_package(tf2_ros REQUIRED)
 find_package(tf2_eigen REQUIRED)
-find_package(pcl_conversions REQUIRED)
+find_package(tf2_geometry_msgs REQUIRED)
 find_package(rosidl_typesupport_cpp REQUIRED)
 
 # hokuyo_rsf
