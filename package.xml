@@ -23,6 +23,8 @@
   <depend>tf2_geometry_msgs</depend>
   <depend>rosidl_typesupport_cpp</depend>
 
+  <exec_depend>rsf_rviz_plugins</exec_depend>
+
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
 
